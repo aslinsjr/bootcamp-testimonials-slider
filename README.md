@@ -1,27 +1,52 @@
-# Project
+# Frontend Mentor -  Bootcamp Testimonials Slider solution
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.5.
+This is a solution to the [ challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/). 
 
-## Development server
+Frontend Mentor challenges help improve my coding skills by building realistic projects. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Table of contents
 
-## Code scaffolding
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Overview
 
-## Build
+### Screenshot
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![](./public/screenshoot.png)
 
-## Running unit tests
+### Links
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Solution URL: [Repository](https://github.com/aslinsjr/bootcamp-testimonials-slider)
+- Live Site URL: [Page](https://your-live-site-url.com)
 
-## Running end-to-end tests
+## My process
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Built with
 
-## Further help
+- Semantic HTML5
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- JavaScript
+- Angular 18
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+### What I learned
+
+I learned how to initializing a project with Angular, create components and events. 
+
+### Continued development
+
+In the process of continuing to develop my skills, I intend to focus on deepening use of FlexBox and the precision of responsiveness.
+
+## Author
+
+- Linkedln - [Alexandre Lins](https://www.linkedin.com/in/aslinsjr/)
+- Frontend Mentor - [@aslinsjr](https://www.frontendmentor.io/profile/aslinsjr)
+

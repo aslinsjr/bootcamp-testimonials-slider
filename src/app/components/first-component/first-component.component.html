@@ -1,0 +1,24 @@
+<div class="container">
+    <div class="testimonial-container">
+        <img id="quotes-img" src="/pattern-quotes.svg" alt="Quote Image">
+        <p>{{data[i].testimonial}}</p>
+        <div class="sub-container">
+            <p id="author">{{data[i].author}}</p>
+            <p id="role">{{data[i].role}}</p>
+        </div>
+    </div>
+    <div class="image-container">
+        <img id="personal-photo" src={{data[i].photo}} alt="Person Image">
+        <div class="navigate-btns">
+            <button id="left-btn" (click)="handleClick()">
+                <img src="/icon-prev.svg" alt="Previous Icon">
+            </button>
+            <button id="right-btn" (click)="handleClick()">
+                <img src="/icon-next.svg" alt="Next Icon">
+            </button>
+        </div>
+    </div>
+    <img id="curve-img" src="/pattern-curve.svg" alt="Curve Image">
+</div>
+
+
