@@ -24,7 +24,7 @@ Frontend Mentor challenges help improve my coding skills by building realistic p
 ### Links
 
 - Solution URL: [Repository](https://github.com/aslinsjr/bootcamp-testimonials-slider)
-- Live Site URL: [Page](https://your-live-site-url.com)
+- Live Site URL: [Page](https://bootcamp-testimonials-slider-alpha.vercel.app/)
 
 ## My process
 
